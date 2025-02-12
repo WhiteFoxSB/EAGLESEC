@@ -1,4 +1,4 @@
-remote_theme: pmarsceill/just-the-docs
+
 theme: ./_includes/just-the-docs
 navigation:
   - text: Home
