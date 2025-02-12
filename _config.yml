@@ -1,1 +1,10 @@
 theme: just-the-docs
+navigation:
+  - text: Home
+    url: /
+  - text: Slides
+    url: /slides/
+  - text: Resources
+    url: /resources/
+  - text: Assignments
+    url: /assignments/
